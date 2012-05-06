@@ -1,0 +1,2 @@
+module ___VARIABLE_moduleName___
+end
